@@ -1,0 +1,9 @@
+{
+	"name": "adf-reporting-covid-bruno",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5330aa6-d415-4464-a247-e8ec584504a5",
+		"tenantId": "41b6ad65-0042-4be8-bb5c-e2bc91d1c935"
+	}
+}
