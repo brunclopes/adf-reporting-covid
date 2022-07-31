@@ -1,4 +1,3 @@
-# adf-reporting-covid
 Repositório contendo o projeto realizado do curso da Udemy.
 
 Neste projeto, foi utilizado a ferramenta Data Factory e o Databricks, ambos da nuvem Azure. 
